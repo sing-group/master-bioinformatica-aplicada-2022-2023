@@ -15,6 +15,8 @@ Objectivos principales y pasos a seguir:
 
 2- Identificación de la/s tarea/s de Machine Learning a abordar (regresión o clasificación) con el conjunto de datos seleccionado.
 
+**HITO-1**: Envío de un correo a los profesores para especificar muy brevemente el dataset seleccionado (URL) y el tipo de problema que se pretende abordar. Debe enviarse como muy tarde el jueves **9 de marzo**.
+
 3- Análisis exploratorio de los datos para observar si es necesario:
 
 - Reducción del conjunto de datos, por ejemplo, eliminando columnas innecesarias.
@@ -22,7 +24,7 @@ Objectivos principales y pasos a seguir:
 - Transformación o descomposición de datos.
 - Estudio de correlaciones entre variables.
 
-**HITO-1**: Presentación en la clase del día **15 de marzo** explicando el conjunto de datos seleccionado con el problema a abordar, así como un pequeño estudio de los atributos de ese conjunto de datos. Cada grupo tendrá **máximo 8 minutos**.
+**HITO-2**: Presentación en la clase del día **15 de marzo** explicando el conjunto de datos seleccionado con el problema a abordar, así como un pequeño estudio de los atributos de ese conjunto de datos. Cada grupo tendrá **máximo 8 minutos**.
 
 4- Preparación de los datos, por ejemplo, entre otras muchas técnicas:
 
@@ -38,7 +40,7 @@ Objectivos principales y pasos a seguir:
 
 7- Interpretación de los resultados y ajustar o modificar el modelo de aprendizaje. Hay que asegurarse de que el modelo ha aprendido algún patrón teniendo en cuenta los datos de entrada y que es capaz de generalizar, es decir, que no se produzca *overfitting*. Si esto sucediera, se debe analizar el problema y plantear una posible solución.
 
-**HITO-2**: Presentación en la clase del día **17 de marzo** de los resultados obtenidos, explicando brevemente el trabajo realizado para la consecución de los mismos, incluyendo problemas detectados y estrategias empleadas. Cada grupo tendrá **máximo 15 minutos**.
+**HITO-3**: Presentación en la clase del día **17 de marzo** de los resultados obtenidos, explicando brevemente el trabajo realizado para la consecución de los mismos, incluyendo problemas detectados y estrategias empleadas. Cada grupo tendrá **máximo 15 minutos**.
 
 ### **Composición de grupos de trabajo**
 

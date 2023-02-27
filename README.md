@@ -57,7 +57,7 @@ Alternatively, the file is also available [here](data/wdbc.data).
 
 Run the following command to use the Docker image to start a Jupyter notebook with the required libraries already installed: 
 ```bash
-docker run --rm -p 8888:8888 -v "$(pwd)":"$(pwd)" -w "$(pwd)" singgroup/jupyter-machine-learning:2021-2022
+docker run --rm -p 8888:8888 -v "$(pwd)":"$(pwd)" -w "$(pwd)" singgroup/jupyter-machine-learning:2022-2023
 ```
 
 The `resources/notebook-ml-1.ipynb` file contains the notebook to develop during these sessions.
