@@ -15,7 +15,7 @@ Objectivos principales y pasos a seguir:
 
 2- Identificación de la/s tarea/s de Machine Learning a abordar (regresión o clasificación) con el conjunto de datos seleccionado.
 
-**HITO-1**: Envío de un correo a los profesores para especificar muy brevemente el dataset seleccionado (URL) y el tipo de problema que se pretende abordar. Debe enviarse como muy tarde el jueves **9 de marzo**.
+**HITO-1**: Envío de un correo a los profesores para especificar muy brevemente el dataset seleccionado (URL) y el tipo de problema que se pretende abordar. Debe enviarse como muy tarde el jueves **9 de marzo**. Los correos deben dirigirse a: alnogueira@uvigo.es, hlfernandez@uvigo.es y dgpena@uvigo.es.
 
 3- Análisis exploratorio de los datos para observar si es necesario:
 
@@ -24,7 +24,7 @@ Objectivos principales y pasos a seguir:
 - Transformación o descomposición de datos.
 - Estudio de correlaciones entre variables.
 
-**HITO-2**: Presentación en la clase del día **15 de marzo** explicando el conjunto de datos seleccionado con el problema a abordar, así como un pequeño estudio de los atributos de ese conjunto de datos. Cada grupo tendrá **máximo 8 minutos**.
+**HITO-2**: Presentación en la clase del día **15 de marzo** explicando el conjunto de datos seleccionado con el problema a abordar, así como un pequeño estudio de los atributos de ese conjunto de datos. Cada grupo tendrá como **máximo 8 minutos**.
 
 4- Preparación de los datos, por ejemplo, entre otras muchas técnicas:
 

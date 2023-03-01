@@ -3,21 +3,20 @@
 
 # Scheduling
 
-## First week
-
+## First week (1-3 March 2023)
 - Day 1 (01.03.2023):
 	- 1/2 Theory
 	- 1/2 Practice: Setting up the environment for the Hands-On practice sessions
 - Day 2 (02.03.2022):
 	- 1/2 Theory
-	- 1/2 Theory: presentation of a real case-study (the [PolyDeep project](polydeep.org/))
+	- 1/2 Theory: presentation of a real case-study (the [PolyDeep project](https://polydeep.org/))
 - Day 3 (03.03.2022):
 	- 1/2 Theory
-	- 1/2 Project: Session I (project presentation and creation of work groups)
+	- 1/2 Project: Session I ([project](PROJECT.md) presentation and creation of work groups)
 
-## Second week
+## Second week (13-17 March 2023)
 - Day 4 (13.03.2023):
-	- Practice: Hands-On (Machine Learning Basics in Python with scikit-learn I)
+	- Practice: Hands-On (Machine Learning Basics in Python with scikit-learn Part I)
 - Day 5 (14.03.2023):
 	- Practice: Hands-On (Machine Learning Basics in Python with scikit-learn Part II)
 - Day 6 (15.03.2023):
@@ -25,7 +24,7 @@
 	- 1/2 Project: Session II (with problem and dataset presentation)
 - Day 7 (16.03.2023):
     - Project: Session III
-- Day 7 (17.03.2023):
+- Day 8 (17.03.2023):
     - Project Session: IV (with results presentation)
 
 # Theory
@@ -36,7 +35,7 @@ The theory slides are available [here](resources/theory-machinelearning.pdf).
 
 ## Pulling the Docker images
 
-Run the following comands to pull the Docker image for the hands-on practices:
+Run the following comands to pull the Docker image for the hands-on practice sessions:
 
 ```bash
 docker pull singgroup/jupyter-machine-learning:2022-2023
@@ -55,7 +54,7 @@ sed -i '1iid,diagnosis,radius_mean,texture_mean,perimeter_mean,area_mean,smoothn
 
 Alternatively, the file is also available [here](data/wdbc.data).
 
-Run the following command to use the Docker image to start a Jupyter notebook with the required libraries already installed: 
+Clone or download this repository and then run the following command (from the local repository) to use the Docker image to start a Jupyter notebook with the required libraries already installed: 
 ```bash
 docker run --rm -p 8888:8888 -v "$(pwd)":"$(pwd)" -w "$(pwd)" singgroup/jupyter-machine-learning:2022-2023
 ```
@@ -64,10 +63,11 @@ The `resources/notebook-ml-1.ipynb` file contains the notebook to develop during
 
 # Project
 
-The information about the project is available [here](resources/PROJECT.md).
+The information about the project is available [here](PROJECT.md).
 
 # References
 - [Practical Statistics for Data Scientists: 50 Essential Concepts](https://www.oreilly.com/library/view/practical-statistics-for/9781491952955/)
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 
 # Additional Resources
 - Ten quick tips for machine learning in computational biology [[10.1186/s13040-017-0155-3](https://dx.doi.org/10.1186%2Fs13040-017-0155-3)]
