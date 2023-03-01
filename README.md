@@ -33,6 +33,24 @@ The theory slides are available [here](resources/theory-machinelearning.pdf).
 
 # Practice
 
+## Install Docker in your system
+
+Follow the steps in the official page to install Docker https://docs.docker.com/engine/install/ubuntu/
+
+Make sure the docker user group exists.
+
+```bash
+sudo groupadd docker
+```
+
+Add your user to the docker group.
+
+```bash
+sudo usermod -aG docker $USER
+```
+
+Reboot the system and the changes will be applied.
+
 ## Pulling the Docker images
 
 Run the following comands to pull the Docker image for the hands-on practice sessions:
