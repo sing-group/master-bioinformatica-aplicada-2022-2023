@@ -54,3 +54,14 @@ Los requisitos a tener en cuenta durante las exposiciones son:
 - Elaborar diapositivas que apoyen el discurso para facilitar la comprensión del problema planteado.
 - No es necesario que expongan todos los miembros del grupo, pero no puede repetir la presentación la misma persona, es decir, si un miembro ya ha realizado la primera presentación, no podrá realizar la segunda.
 - Pueden efectuarse preguntas a la finalización de cada exposición.
+
+### **Rúbrica de evaluación**
+
+| **Ítem**                                    | **Descripción**                                                                                                                                                                            | **Valoración** |
+| ------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------- |
+| Presentación del trabajo                    | Realización de las dos exposiciones. En la presentación final se deberá exponer el trabajo realizado y justificar la dedicación grupal al mismo (aproximadamente 5h).                      | 5 puntos       |
+| Trabajo original                            | En caso de partir de código existente (de Kaggle, del notebook de prácticas, etc.) se debe aclarar cuáles han sido las contribuciones originales o adaptaciones realizadas por el grupo.   | 1 punto        |
+| Justificación de las decisiones             | Explicación razonada de los motivos que llevaron a tomar ciertas decisiones (p. ej.: no tener en cuenta algunas columnas o *features*, la conversión de los valores de una columna, etc.). | 1 punto        |
+| Interpretación de los resultados            | Ser capaces de transmitir e interpretar los resultados obtenidos (sean estos buenos o malos).                                                                                              | 1 punto        |
+| Identificación de trabajo futuro            | Exposición de posibles vías de trabajo futuras (p. ej.: tareas interesantes que no dio tiempo a hacer, etc.).                                                                              | 1 punto        |
+| Debate con los profesores y/o compañeros/as | Ser capaces de participar en un debate o de generar preguntas acerca del proyecto desarrollado.                                                                                            | 1 punto        |
